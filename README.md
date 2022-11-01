@@ -17,7 +17,7 @@
 - Печать выписки по карте
 
 ## screenshot
-
+![Login](https://github.com/Remjlik/lab1/blob/main/screenshot/1.png?raw=true)
 
 
 
