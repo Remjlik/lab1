@@ -8,7 +8,6 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 public class Cash_withdrawal implements Window {
-    String test;
 
     Controller controller;
     ToggleGroup group = new ToggleGroup();
