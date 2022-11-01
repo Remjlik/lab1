@@ -17,8 +17,11 @@
 - Печать выписки по карте
 
 ## screenshot
+## Иходная точка
 ![Login](https://github.com/Remjlik/lab1/blob/main/screenshot/1.png?raw=true)
-![Login](https://github.com/Remjlik/lab1/blob/main/screenshot/1.png?raw=true)
+## Аутентификация 
+![Login](https://github.com/Remjlik/lab1/blob/main/screenshot/2.png?raw=true)
+
 
 
 
